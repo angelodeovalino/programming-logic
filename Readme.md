@@ -14,4 +14,5 @@ Espero que esse documento possa lhe ser útil, mas que seja um complemento e nã
 
 *Bons estudos e obrigado por ler até aqui.*
 
-teste de auth ssh
+teste de auth ssh 1
+teste de auth ssh 2
