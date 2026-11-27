@@ -13,3 +13,5 @@ O repositório está dividido entre arquivos de leitura os "Readme.md" e a lingu
 Espero que esse documento possa lhe ser útil, mas que seja um complemento e não substitua suas próprias anotações.
 
 *Bons estudos e obrigado por ler até aqui.*
+
+teste de auth ssh
